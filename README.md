@@ -40,5 +40,3 @@ Quando não estou programando, adoro passar o tempo com:
 - 🐱 **Gatos**
 
 ---
-
-Sinta-se à vontade para entrar em contato comigo por qualquer um dos canais acima. ✨
