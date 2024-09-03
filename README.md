@@ -1,5 +1,5 @@
 # 👋✨ Olá! Eu sou a Liu (Maria Alice)
-
+![Alice](img/aliuce.jpg)
 Sou estudante de programação, tenho 23 anos e atualmente curso Técnico de Informática para WEB no SENAI AL.
 
 ## 🚀 **Habilidades**
